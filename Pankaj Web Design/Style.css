@@ -1,0 +1,25 @@
+﻿h1 {
+    color: blueviolet;
+    background-color:yellowgreen
+}
+
+div {
+    color: white;
+    height: 73px;
+    width: 100%;
+    font-size: 31px;
+    font-family: cursive;
+}
+p{
+    color:aqua;
+    background-color:yellow;
+}
+.common-align {
+    text-align: center;
+}
+
+.backgroundColor {
+    background-color:yellow;
+}
+
+#
